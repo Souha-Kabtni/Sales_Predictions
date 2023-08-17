@@ -1,5 +1,7 @@
 <img width="560" alt="image" src="https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/841e91c3-b7b9-4805-bb62-bcf28f5da21a">
 
+# Food Sales Predictions: Products & Outlets properties
+
 A sales prediction for food items sold at various stores. The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 
 ## Data Source:

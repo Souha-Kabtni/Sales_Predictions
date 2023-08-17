@@ -73,11 +73,11 @@ Item visibility over item type by item fat content demonstrates that Seafood wit
     + R^2: 0.596 
     + RMSE: 1,055.975
 
-The Final Model Chosen was a Regression Tree Model with the max_depth tuned to 5, .
+The Final Model Chosen was a Regression Tree Model with the max_depth, min_samples_split, and min_samples_leaf tuned to 5, 6, and 15, respectively.
 
-For the testing set on the model, 59.5 % of the variance in y was explained by x.
+For the testing set on the model, 59.6 % of the variance in y was explained by x.
 
-The Root Mean Squared Error had a calculation of $1,057.443.
+The Root Mean Squared Error had a calculation of $1,055.975.
 
 Using this model to make sales predictions about food items sold at various stores would not be very reliable. !!!!!
 
@@ -86,3 +86,8 @@ Using this model to make sales predictions about food items sold at various stor
 
 ## Limitations & Next Steps
 
+## For Further Information
+For any additional questions, please contact:
+
+Souha Kabtni
+souha.kabtni.data@gmail.com

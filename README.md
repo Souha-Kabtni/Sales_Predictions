@@ -32,7 +32,7 @@ This histogram shows that the majority of the Item Outlet Sales are around $2000
 
 ### Explanatory Data Analysis
 
-    - 1 barplot and one heatmap were chosen and one line graph was chosen.
+    - 1 barplot and one heatmap were chosen.
     - The barplot was chosen to show how the category compare to each other. 
     - The heatmap was chosen to show which numerical variable most correlates with our target variable. 
 

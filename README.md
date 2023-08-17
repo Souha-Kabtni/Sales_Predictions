@@ -32,12 +32,16 @@ This histogram shows that the majority of the Item Outlet Sales are around $2000
 
 ### Explanatory Data Analysis
 
-    - Three bar graphs were chosen and one line graph was chosen.
-    - The bar graphs were chosen to show how the categories compare to each other. 
-    - line graphs were chosen to show the trend of salaries over the past three years. 
+    - 1 barplot and one heatmap were chosen and one line graph was chosen.
+    - The barplot was chosen to show how the category compare to each other. 
+    - The heatmap was chosen to show which numerical variable most correlates with our target variable. 
 
 
+<img width="320" alt="image" src="https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/888d7d10-c17c-4c99-95f8-e28dadf5ef18">
 
++ With a positive correlation of 0.57, Item_MRP and Item_Outlet_Sales moderately correlate.
++ With a negative correlation of -0.13 and -0.049 between Item_Visibility and Outlet_Establishment_Year respectively with Item_Outlet_Sales.
++ Conclusion: The more the product is high in price, the more it is sold.
 
 ### Explanatory Visuals
 

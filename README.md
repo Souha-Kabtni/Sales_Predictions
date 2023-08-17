@@ -79,12 +79,15 @@ For the testing set on the model, 59.6 % of the variance in y was explained by x
 
 The Root Mean Squared Error had a calculation of $1,055.975.
 
-Using this model to make sales predictions about food items sold at various stores would not be very reliable. !!!!!
+Using this model to make sales predictions about food items sold at various stores would not be very reliable. A prediction error of $1,055.975 (that represents almost 52.8% of the mean values of the Item-Outlet sales) cannot be overlooked.
 
 ## Recommendations
 
+Given that the results of the tuned Decision Tree Regressor Model did not yield reliable results, I recommend the use of an alternative model such as the Random Forest Model.
 
 ## Limitations & Next Steps
+
+
 
 ## For Further Information
 For any additional questions, please contact:

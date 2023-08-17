@@ -1,4 +1,6 @@
 <img width="560" alt="image" src="https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/841e91c3-b7b9-4805-bb62-bcf28f5da21a">
+
+<img width="560" alt="image" src=
  
 # Increasing Food Sales Predictions
 
@@ -12,7 +14,7 @@ A sales prediction for food items sold at various stores. The goal of this is to
 
 Food Sales Predictions: https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view 
 
-For this dataset, there were 8523 rows and 12 columns:
+For this dataset, there were 8523 rows and 12 columns.
 
 ## Data Dictionary
 
@@ -36,16 +38,17 @@ This histogram shows that the majority of the Item Outlet Sales are around $2000
     - The barplot was chosen to show how the category compare to each other. 
     - The heatmap was chosen to show which numerical variable most correlates with our target variable. 
 
+### Explanatory Visuals
 
-<img width="320" alt="image" src="https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/888d7d10-c17c-4c99-95f8-e28dadf5ef18">
+<img width="653" alt="image" src="https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/3baf98c5-865b-43cc-b0a6-955b415d9112">
+
+Item visibility over item type by item fat content demonstrates that Seafood with regular fat is the most visible item while Breakfast has the highest visibility in terms of low fat.
+
+<img width="376" alt="image" src="https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/769b8008-cff1-4d88-8c01-b24ce7491497">
 
 + With a positive correlation of 0.57, Item_MRP and Item_Outlet_Sales moderately correlate.
 + With a negative correlation of -0.13 and -0.049 between Item_Visibility and Outlet_Establishment_Year respectively with Item_Outlet_Sales.
 + Conclusion: The more the product is high in price, the more it is sold.
-
-### Explanatory Visuals
-
-
 
 ## Machine Learning Using the Following Models:
 
@@ -67,10 +70,10 @@ This histogram shows that the majority of the Item Outlet Sales are around $2000
 
 + Tuned Decision Tree Regressor Model (Testing Set):
 
-    + R^2: 0.595 
-    + RMSE: 1,057.443
+    + R^2: 0.596 
+    + RMSE: 1,055.975
 
-The Final Model Chosen was a Regression Tree Model with the max_depth tuned to 5.
+The Final Model Chosen was a Regression Tree Model with the max_depth tuned to 5, .
 
 For the testing set on the model, 59.5 % of the variance in y was explained by x.
 

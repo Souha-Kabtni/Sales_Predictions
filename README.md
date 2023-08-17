@@ -2,6 +2,8 @@
  
 # Increasing Food Sales Predictions
 
+Souha Kabtni
+
 ## Analyzing Products & Outlets properties in increasing sales
 
 A sales prediction for food items sold at various stores. The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
@@ -24,12 +26,17 @@ For this dataset, there were 8523 rows and 12 columns:
     - Histograms were visualized for each numeric datatype column. 
     - This gave a good baseline for all of the categorical and numeric columns for univariate EDA.
 
+![image](https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/d6aa2b52-a48b-4fb8-94d3-210a9c6c3472)
+
+This histogram shows that the majority of Item Outlet Sales are around $2000,000.
 
 ### Explanatory Data Analysis
 
     - Three bar graphs were chosen and one line graph was chosen.
     - The bar graphs were chosen to show how the categories compare to each other. 
     - line graphs were chosen to show the trend of salaries over the past three years. 
+
+
 
 
 ### Explanatory Visuals

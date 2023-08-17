@@ -28,7 +28,7 @@ For this dataset, there were 8523 rows and 12 columns:
 
 ![image](https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/d6aa2b52-a48b-4fb8-94d3-210a9c6c3472)
 
-This histogram shows that the majority of Item Outlet Sales are around $2000,000.
+This histogram shows that the majority of the Item Outlet Sales are around $2000,000.
 
 ### Explanatory Data Analysis
 

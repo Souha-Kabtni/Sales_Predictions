@@ -1,5 +1,5 @@
 <img width="560" alt="image" src="https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/841e91c3-b7b9-4805-bb62-bcf28f5da21a">
-
+ 
 <img width="560" alt="image" src=
  
 # Increasing Food Sales Predictions

@@ -10,9 +10,9 @@ A sales prediction for food items sold at various stores. The goal of this is to
 
 ## Data Source:
 
-Food Sales Predictions: https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view 
+Click [ here ](https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view) to download the dataset.
 
-For this dataset, there were ``` 8523 rows```  and ``` 12 columns``` .
+For this dataset, there were ``` 8523 rows```  and ``` 12 columns```.
 
 ## Data Dictionary
 

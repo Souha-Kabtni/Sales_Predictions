@@ -81,11 +81,15 @@ Using this model to make sales predictions about food items sold at various stor
 
 ## Recommendations
 
-Given that the results of the tuned Decision Tree Regressor Model did not yield reliable results, I recommend the use of an alternative model such as the Random Forest Model.
+Given that the results of the tuned Decision Tree Regressor Model did not yield reliable results, I recommend the following:
++ Dedicate more time in the feature engineering phase so as to select and transform the most relevant variables from raw data when creating a predictive model using machine learning;
++ The use of alternative models and the adjusting of their hyperparameters (examples might be the Random Forest Model).
 
 ## Limitations & Next Steps
 
-
+The generated "poorly performant" model might be emanating from these 2 reasons:
++ The predefined features might have not been directly impacting our target variables of item_outlet_sales;
++ Feature engineering was not given the utmost importance since all found features were selected to help in the prediction of the model.
 
 ## For Further Information
 For any additional questions, please contact:

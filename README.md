@@ -1,5 +1,5 @@
-<img width="560" alt="image" src="https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/841e91c3-b7b9-4805-bb62-bcf28f5da21a">
- 
+![image](https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/b3660500-4692-4874-a7ad-d5a5c706dbf1)
+
 # Increasing Food Sales Predictions
 
 Souha Kabtni
@@ -16,7 +16,7 @@ For this dataset, there were 8523 rows and 12 columns.
 
 ## Data Dictionary
 
-<img width="337" alt="image" src="https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/090a8f07-1815-4db7-8ea9-f1ebba64c5aa">
+![image](https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/22a160da-98dd-4c44-bdbe-64d5aea3ecd1)
 
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 

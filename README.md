@@ -12,7 +12,7 @@ A sales prediction for food items sold at various stores. The goal of this is to
 
 Food Sales Predictions: https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view 
 
-For this dataset, there were 8523 rows and 12 columns.
+For this dataset, there were ``` 8523 rows```  and ``` 12 columns``` .
 
 ## Data Dictionary
 
@@ -44,8 +44,8 @@ Item visibility over item type by item fat content demonstrates that Seafood wit
 
 <img width="376" alt="image" src="https://github.com/Souha-Kabtni/Sales_Predictions/assets/133057039/769b8008-cff1-4d88-8c01-b24ce7491497">
 
-+ With a positive correlation of 0.57, Item_MRP and Item_Outlet_Sales moderately correlate.
-+ With a negative correlation of -0.13 and -0.049 between Item_Visibility and Outlet_Establishment_Year respectively with Item_Outlet_Sales.
++ With a positive correlation of ``` 0.57``` , Item_MRP and Item_Outlet_Sales moderately correlate.
++ With a negative correlation of ``` -0.13```  and ``` -0.049```  between Item_Visibility and Outlet_Establishment_Year respectively with Item_Outlet_Sales.
 + Conclusion: The more the product is high in price, the more it is sold.
 
 ## Machine Learning Using the Following Models:
@@ -58,26 +58,26 @@ Item visibility over item type by item fat content demonstrates that Seafood wit
 
 + Linear Regression Model (Testing Set):
   
-    + R^2: 0.567 
-    + RMSE: 1,092.858
+    + R^2: ``` 0.567 ``` 
+    + RMSE: ```  1,092.858 ``` 
  
 + Decision Tree Regressor Model (Testing Set):
 
-    + R^2: 0.183 
-    + RMSE: 1,501.460
+    + R^2:```  0.183 ``` 
+    + RMSE:```  1,501.460 ``` 
 
 + Tuned Decision Tree Regressor Model (Testing Set):
 
-    + R^2: 0.596 
-    + RMSE: 1,055.975
+    + R^2: ``` 0.596 ``` 
+    + RMSE:```  1,055.975``` 
 
-The Final Model Chosen was a Regression Tree Model with the max_depth, min_samples_split, and min_samples_leaf tuned to 5, 6, and 15, respectively.
+The Final Model Chosen was a Regression Tree Model with the max_depth, min_samples_split, and min_samples_leaf tuned to ``` 5``` , ``` 6``` , and ``` 15``` , respectively.
 
-For the testing set on the model, 59.6 % of the variance in y was explained by x.
+For the testing set on the model, ``` 59.6 %```  of the variance in y was explained by x.
 
-The Root Mean Squared Error had a calculation of $1,055.975.
+The Root Mean Squared Error had a calculation of ``` $1,055.975``` .
 
-Using this model to make sales predictions about food items sold at various stores would not be very reliable. A prediction error of $1,055.975 (that represents almost 52.8% of the mean values of the Item-Outlet sales) cannot be overlooked.
+Using this model to make sales predictions about food items sold at various stores would not be very reliable. A prediction error of ``` $1,055.975```  (that represents almost 52.8% of the mean values of the Item-Outlet sales) cannot be overlooked.
 
 ## Recommendations
 
